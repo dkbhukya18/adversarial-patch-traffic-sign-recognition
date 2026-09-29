@@ -1,0 +1,32 @@
+{"name": "GTSRB-CNN", "kind": "clean", "time": "2026-09-27T20:50:05.922949", "test_accuracy": 0.9628}
+{"name": "aug-GTSRB-CNN", "kind": "clean", "time": "2026-09-27T21:04:40.281462", "test_accuracy": 0.9717}
+{"name": "LISA-CNN", "kind": "clean", "time": "2026-09-28T02:54:12.150494", "test_accuracy": 0.9877}
+{"name": "aug-LISA-CNN", "kind": "clean", "time": "2026-09-28T02:56:56.739342", "test_accuracy": 0.9834}
+{"name": "GTSRB-RESNET18-FT", "kind": "clean", "time": "2026-09-28T03:05:00.142762", "test_accuracy": 0.9641}
+{"name": "aug-GTSRB-RESNET18-FT", "kind": "clean", "time": "2026-09-28T03:20:35.887952", "test_accuracy": 0.9599}
+{"name": "LISA-RESNET18-FT", "kind": "clean", "time": "2026-09-28T03:22:21.163616", "test_accuracy": 0.9847}
+{"name": "aug-LISA-RESNET18-FT", "kind": "clean", "time": "2026-09-28T03:25:18.331438", "test_accuracy": 0.9728}
+{"name": "GTSRB-CNN", "kind": "attack", "time": "2026-09-28T03:34:37.303778", "accuracy_under_attack": 0.4428, "attack_success_rate": 0.2822}
+{"name": "aug-GTSRB-CNN", "kind": "attack", "time": "2026-09-28T03:44:20.575424", "accuracy_under_attack": 0.5563, "attack_success_rate": 0.0627}
+{"name": "LISA-CNN", "kind": "attack", "time": "2026-09-28T03:46:10.810614", "accuracy_under_attack": 0.7674, "attack_success_rate": 0.0213}
+{"name": "aug-LISA-CNN", "kind": "attack", "time": "2026-09-28T03:48:00.441255", "accuracy_under_attack": 0.8188, "attack_success_rate": 0.0064}
+{"name": "GTSRB-RESNET18-FT", "kind": "attack", "time": "2026-09-28T04:07:45.640954", "accuracy_under_attack": 0.3648, "attack_success_rate": 0.1906}
+{"name": "aug-GTSRB-RESNET18-FT", "kind": "attack", "time": "2026-09-28T04:27:27.997719", "accuracy_under_attack": 0.329, "attack_success_rate": 0.2512}
+{"name": "LISA-RESNET18-FT", "kind": "attack", "time": "2026-09-28T04:31:10.877134", "accuracy_under_attack": 0.5531, "attack_success_rate": 0.0388}
+{"name": "aug-LISA-RESNET18-FT", "kind": "attack", "time": "2026-09-28T04:35:12.297593", "accuracy_under_attack": 0.3896, "attack_success_rate": 0.009}
+{"name": "adv-GTSRB-CNN", "kind": "attack", "time": "2026-09-28T05:19:24.433038", "accuracy_under_attack": 0.8581, "attack_success_rate": 0.0287}
+{"name": "adv-GTSRB-CNN", "kind": "clean", "time": "2026-09-28T05:19:24.561711", "test_accuracy": 0.9732}
+{"name": "adv-aug-GTSRB-CNN", "kind": "attack", "time": "2026-09-28T05:52:50.243938", "accuracy_under_attack": 0.8709, "attack_success_rate": 0.0231}
+{"name": "adv-aug-GTSRB-CNN", "kind": "clean", "time": "2026-09-28T05:52:50.366171", "test_accuracy": 0.9756}
+{"name": "adv-LISA-CNN", "kind": "attack", "time": "2026-09-28T05:56:46.056905", "accuracy_under_attack": 0.6728, "attack_success_rate": 0.0085}
+{"name": "adv-LISA-CNN", "kind": "clean", "time": "2026-09-28T05:56:46.241817", "test_accuracy": 0.9873}
+{"name": "adv-aug-LISA-CNN", "kind": "attack", "time": "2026-09-28T06:03:13.931911", "accuracy_under_attack": 0.6817, "attack_success_rate": 0.0085}
+{"name": "adv-aug-LISA-CNN", "kind": "clean", "time": "2026-09-28T06:03:14.075651", "test_accuracy": 0.9593}
+{"name": "adv-GTSRB-RESNET18-FT", "kind": "attack", "time": "2026-09-28T06:35:29.787701", "accuracy_under_attack": 0.6804, "attack_success_rate": 0.0418}
+{"name": "adv-GTSRB-RESNET18-FT", "kind": "clean", "time": "2026-09-28T06:35:29.937088", "test_accuracy": 0.9508}
+{"name": "adv-aug-GTSRB-RESNET18-FT", "kind": "attack", "time": "2026-09-28T07:21:01.615307", "accuracy_under_attack": 0.7182, "attack_success_rate": 0.033}
+{"name": "adv-aug-GTSRB-RESNET18-FT", "kind": "clean", "time": "2026-09-28T07:21:01.745955", "test_accuracy": 0.9647}
+{"name": "adv-LISA-RESNET18-FT", "kind": "attack", "time": "2026-09-29T00:31:37.560538", "accuracy_under_attack": 0.6532, "attack_success_rate": 0.0149}
+{"name": "adv-LISA-RESNET18-FT", "kind": "clean", "time": "2026-09-29T00:31:37.722805", "test_accuracy": 0.9881}
+{"name": "adv-aug-LISA-RESNET18-FT", "kind": "attack", "time": "2026-09-29T00:40:21.627793", "accuracy_under_attack": 0.6261, "attack_success_rate": 0.0064}
+{"name": "adv-aug-LISA-RESNET18-FT", "kind": "clean", "time": "2026-09-29T00:40:21.767417", "test_accuracy": 0.9881}
